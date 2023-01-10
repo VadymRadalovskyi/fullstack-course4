@@ -38,7 +38,7 @@ header .navbar-toggler {
 
 
 main {
-    padding: 0 1.5%;
+    padding: 0 2%;
 }
 
 main h2 {
@@ -49,3 +49,9 @@ main section {
     background-color: gray;
     border: 1px solid black;
 }
+
+main .row {
+    margin-left: 0;
+    margin-right: 0;
+}
+
